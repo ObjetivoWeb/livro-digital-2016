@@ -1,0 +1,20 @@
+---
+layout: default
+title: Liberdade de expressão
+---
+
+
+
+<div class="home post-list">
+
+  {% for u in site.unidades %}
+  <article>
+  	<p class="post-link"><a href="{{ u.url | prepend: site.baseurl }}">{% if u.titulo %}{{ u.titulo }}{% else %}{{ u.title }}{% endif %}</a></p>
+  	<aside class="post-meta">
+  		<p>{{ u.nome }}</p>
+  	</aside>
+  	<p>{{ u.excerpt | truncatewords: 15 }}</p>
+  </article>
+  {% endfor %}
+
+</div>
