@@ -1,7 +1,7 @@
 ---
-
-nome: Ariane Audrey Faria.
 titulo: A fila da vida
+nome: Ariane Audrey Faria.
+img: https://c2.staticflickr.com/6/5612/29629671143_6e7af2b37b_o.jpg
 ---
 Certo dia eu estava na fila de uma loja... E que fila! E nela estavam duas adolescentes conversando, e como estava à toa acabei prestando atenção na conversa delas.
 Uma das garotas falava que ela não tinha liberdade para se expressar politicamente dentro de casa, pois seu pai era associado a um partido, mas ela era contra as ideias dele, e toda vez que o assunto “política” entrava em sua casa, sempre gerava briga e castigo, e a menina não podia falar a sua opinião, sempre tinha que concordar com o pai.

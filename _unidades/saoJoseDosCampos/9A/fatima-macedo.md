@@ -1,6 +1,7 @@
 ---
-nome: Fatima Macedo
 titulo: As mulheres na sociedade
+nome: Fatima Macedo
+img: https://c2.staticflickr.com/6/5611/30144209302_91663f3cec_o.jpg
 ---
 
 Todos os seres humanos têm direitos e liberdades. Mas, ainda falta um pouco mais de igualdade e respeito. Por exemplo, as mulheres precisam lutar por igualdade constantemente. Afinal, elas querem seu respeito na sociedade e estão tentando conseguir.

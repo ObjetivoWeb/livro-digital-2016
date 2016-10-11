@@ -1,7 +1,7 @@
 ---
-
-nome: ANA LAURA GAIA ALVARENGA 
 titulo: Meus gostos, minhas escolhas.
+nome: Ana Laura Gaia Alvarenga 
+img: https://c2.staticflickr.com/6/5629/29629671193_5c1b8d34a8_o.jpg
 ---
 
 Rajaa estava com seus amigos na escola e juntos tinham que confeccionar um trabalho, este tinha que falar sobre os gostos musicais dos jovens. Ela achou muito interessante, pois como vinha de outro país achou que era uma boa oportunidade para mostrar a todos, as músicas do seu país de origem.

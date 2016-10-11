@@ -1,6 +1,7 @@
 ---
-nome: BEATRIZ ROCHA
+nome: Beatriz Rocha
 titulo: Aceitação
+img: https://c2.staticflickr.com/6/5578/29629671063_947edba9fd_o.jpg
 ---
 
 Certo dia, Bianca estava sentada no ponto de ônibus ouvindo música enquanto esperava, quando viu dois jovens se aproximando e falando sobre liberdade de expressão. No começo a menina ficou assustada, mas, depois se interessou pelo assunto, até tirou seus fones de ouvido.

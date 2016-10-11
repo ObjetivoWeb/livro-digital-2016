@@ -1,6 +1,7 @@
 ---
-nome: Dara Aline
 titulo: Padrões
+nome: Dara Aline
+img: https://c2.staticflickr.com/6/5723/29629670933_4425040865_o.jpg
 ---
 
 Hoje em dia, somos manipulados a seguir padrões. Infelizmente, a liberdade de ser e de se expressar não é respeitada. Na verdade, ela é manipulada pela mídia e, de forma “natural”, a mídia impõe como devemos ser e pensar. Podemos ver nitidamente o quanto as pessoas se esforçam para se encaixarem a esses padrões, principalmente, o que é esteticamente “bonito” ou “perfeito”.

@@ -1,8 +1,7 @@
 ---
-
-nome: BEATRIZ MORANDI
 titulo: Presos ao padrão
-
+nome: Beatriz Morandi
+img: https://c2.staticflickr.com/6/5629/29629671093_773c08497b_o.jpg
 ---
 
 Certo dia na escola, vi uma cena que eu desejaria não ter visto, era uma menina de mais ou menos dez anos que chorava muito, então me aproximei e perguntei qual era o motivo. Ela disse que era por causa da cor de pele dela, que era negra e por conta disto não conseguia se expressar nem ter amigos, não conseguia ter liberdade para ser ela mesma.

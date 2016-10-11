@@ -1,6 +1,7 @@
 ---
-nome: Emily Melo
 titulo: Amizade com liberdade de expressão
+nome: Emily Melo
+img: https://c1.staticflickr.com/9/8137/30144209392_de1cc1f4a5_o.jpg
 ---
 
 Em uma noite de outono, haviam duas meninas conversando no parque próximo de suas casas, elas pareciam irmãs, pois viviam sempre juntas. Ana era a mais velha, e Carol um ano mais nova. 
