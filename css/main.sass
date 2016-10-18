@@ -25,12 +25,4 @@ $content-width: 800px
 $on-palm: 600px
 $on-laptop: 800px
 
-=media-query($device)
-    @media screen and (max-width: $device)
-        @content
-
-=media-greater($device)
-    @media screen and (min-width: $device + 1)
-        @content
-
-@import base, layout
+@import mixins, base, grid, layout
