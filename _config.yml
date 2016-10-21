@@ -19,9 +19,9 @@ gems:
 collections:
   textos:
     output: true
+    permalink: /:path/
   unidades:
     output: true
-    # permalink: /:path/
 
 defaults:
   - scope:

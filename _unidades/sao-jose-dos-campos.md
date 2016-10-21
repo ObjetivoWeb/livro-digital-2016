@@ -1,6 +1,7 @@
 ---
 title: São José dos Campos
-permalink: sao-jose-dos-campos
+name: sao-jose-dos-campos
+permalink: /sao-jose-dos-campos/
 turmas:
     - id: 9A
       nome: "9º A"

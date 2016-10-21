@@ -1,6 +1,7 @@
 ---
 title: Conselheiro
-permalink: conselheiro
+name: conselheiro
+permalink: /conselheiro/
 turmas:
     - id: 9O
       nome: "9º O"

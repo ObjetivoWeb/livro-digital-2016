@@ -1,29 +1,34 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{% if page.titulo %}{{ page.titulo }}{% else if page.title %}{{ page.title }}{% endif %}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
+<header class="post-header" data-grid="row nowrap">
+  <h1 class="post-title">{% if page.titulo %}{{ page.titulo }}{% else if page.title %}{{ page.title }}{% endif %}</h1>
+  <div data-cell="shrink">
+    <div>Turmas:</div>
+    {% for t in page.turmas %}
+    <label for="{{ t.id }}" data-toggle>{{ t.nome }}</label>
+    {% endfor %}
   </div>
+</header>
 
-  <div class="home post-list" data-grid="cols-2 spacing">
-  {% for post in site.textos %}{% assign crumbs = post.url | split: '/' %}{% if crumbs[2] == page.permalink %}
-    {% capture turma %}{% for turma in page.turmas %}{% if turma.id == crumbs[3] %}{{ turma.nome }}{% endif %}{% endfor %}{% endcapture %}
+<div class="post-content">
+  {{ content }}
+</div>
 
-    <article data-turma="{{ turma }}">
-      <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">{% if post.titulo %}{{ post.titulo }}{% else %}{{ post.title }}{% endif %}</a></p>
-      <p class="post-meta">
-        {{ post.nome }}
-        <span class="right">{{ turma }}</span>
-      </p>
-      <p>{{ post.excerpt | truncatewords: 15 }}</p>
-    </article>
-  {% endif %}{% endfor %}
-  </div>
-
-</article>
+<div class="home post-list" data-grid="cols-2 spacing">
+{% for t in page.turmas %}
+  <input type="radio" name="turmas" id="{{ t.id }}" data-toggle{% if forloop.first %} checked{% endif %}>
+{% endfor %}
+{% for post in site.textos %}{% assign crumbs = post.url | split: '/' %}{% if crumbs[1] == page.name %}
+  {% capture turma %}{% for turma in page.turmas %}{% if turma.id == crumbs[2] %}{{ turma.nome }}{% endif %}{% endfor %}{% endcapture %}
+  <article data-turma="{{ crumbs[2] }}">
+    <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">{% if post.titulo %}{{ post.titulo }}{% else %}{{ post.title }}{% endif %}</a></p>
+    <p class="post-meta">
+      {{ post.nome }}
+      <span class="right">{{ turma }}</span>
+    </p>
+    <p>{{ post.excerpt | truncatewords: 15 }}</p>
+  </article>
+{% endif %}{% endfor %}
+</div>

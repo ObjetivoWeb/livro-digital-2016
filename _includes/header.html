@@ -32,3 +32,7 @@
 <div class="site-hero">
   <h2 class="site-subtitle">Liberdade de expressão</h2>
 </div>
+
+<nav class="menu-unidades">{% assign crumbs = page.url | split: '/' %}
+  <div class="wrapper">{% for post in site.unidades %}<a{% if crumbs[1] == post.name %} class="selected"{% endif %} href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% endfor %}</div>
+</nav>

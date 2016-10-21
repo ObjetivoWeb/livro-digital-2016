@@ -16,9 +16,7 @@
     background: url('https://c1.staticflickr.com/9/8673/30174029791_d66fc5a781_o.jpg') center center no-repeat
         size: cover
     text-align: center
-    padding: 20% $spacing-unit
-    +media-query($on-palm)
-        padding: 30% $spacing-unit / 2 10%
+    padding: 25vmin $spacing-unit 15vmin
 
 .site-title
     font:
@@ -26,6 +24,8 @@
         family: 'Rock Salt', cursive
         size: 20px
         weight: 300
+    +media-query($on-laptop)
+        font-size: 3vmin
     line-height: 56px
     letter-spacing: -1px
     margin-bottom: 0
@@ -82,6 +82,24 @@
             &:not(:last-child)
                 margin-right: 0
             margin-left: 20px
+
+.menu-unidades
+    background-color: $grey-color-light
+    font-size: $small-font-size
+    .wrapper
+        padding: 0
+        white-space: nowrap
+        overflow: auto
+    a
+        display: inline-block
+        padding: $spacing-unit / 2
+        transition: .3s ease-in-out
+        &:hover, &:focus
+            text-decoration: none
+            background-color: rgba($grey-color, .5)
+    .selected
+        background-color: $grey-color
+        color: #fff
 
 /**
  * Site footer
@@ -157,6 +175,7 @@
 .post-link
     display: block
     font-size: 24px
+    line-height: 1
 
 /**
  * Posts
