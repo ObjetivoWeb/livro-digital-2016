@@ -16,7 +16,7 @@ layout: default
   {{ content }}
 </div>
 
-<div class="home post-list" data-grid="cols-2 spacing">
+<div class="home post-list" data-grid="cols-2">
 {% for t in page.turmas %}
   <input type="radio" name="turmas" id="{{ t.id }}" data-toggle{% if forloop.first %} checked{% endif %}>
 {% endfor %}

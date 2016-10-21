@@ -6,15 +6,16 @@
     top: 0
     left: 0
     right: 0
-    background-color: $brand-color
+    
     color: #fff
     a
         color: inherit
         text-decoration: none
 
 .site-hero
-    background: url('https://c1.staticflickr.com/9/8673/30174029791_d66fc5a781_o.jpg') center center no-repeat
+    background: $brand-color url('https://c1.staticflickr.com/9/8673/30174029791_d66fc5a781_o.jpg') center center no-repeat
         size: cover
+    background-image: linear-gradient(rgba(black, .5), rgba(black, 0)), url('https://c1.staticflickr.com/9/8673/30174029791_d66fc5a781_o.jpg')
     text-align: center
     padding: 25vmin $spacing-unit 15vmin
 
@@ -167,6 +168,13 @@
 .post-list
     margin-left: 0
     list-style: none
+
+    article
+        &:nth-of-type(odd)
+            +media-greater($on-palm)
+                margin-right: $spacing-unit
+            +media-greater($on-laptop)
+                margin-right: $spacing-unit * 2
 
 .post-meta
     font-size: $small-font-size
