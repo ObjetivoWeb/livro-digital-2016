@@ -20,15 +20,19 @@ layout: default
 {% for t in page.turmas %}
   <input type="radio" name="turmas" id="{{ t.id }}" data-toggle{% if forloop.first %} checked{% endif %}>
 {% endfor %}
-{% for post in site.textos %}{% assign crumbs = post.url | split: '/' %}{% if crumbs[1] == page.name %}
-  {% capture turma %}{% for turma in page.turmas %}{% if turma.id == crumbs[2] %}{{ turma.nome }}{% endif %}{% endfor %}{% endcapture %}
-  <article data-turma="{{ crumbs[2] }}">
-    <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">{% if post.titulo %}{{ post.titulo }}{% else %}{{ post.title }}{% endif %}</a></p>
-    <p class="post-meta">
-      {{ post.nome }}
-      <span class="right">{{ turma }}</span>
-    </p>
-    <p>{{ post.excerpt | truncatewords: 15 }}</p>
-  </article>
-{% endif %}{% endfor %}
+
+{% for turma in page.turmas %}
+  <section data-turma="{{ turma.id }}" data-grid="spacing cols-2">
+  {% for post in site.textos %}{% assign crumbs = post.url | split: '/' %}{% if crumbs[1] == page.name and crumbs[2] == turma.id %}
+    <article>
+      <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">{% if post.titulo %}{{ post.titulo }}{% else %}{{ post.title }}{% endif %}</a></p>
+      <p class="post-meta">
+        {{ post.nome }}
+        <span class="right">{{ turma.nome }}</span>
+      </p>
+      <p>{{ post.excerpt | truncatewords: 15 }}</p>
+    </article>
+  {% endif %}{% endfor %}
+  </section>
+{% endfor %}
 </div>
