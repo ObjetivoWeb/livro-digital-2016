@@ -1,6 +1,6 @@
 ---
-Nome: Stephany dos Anjos Teixeira Alves
-Titulo: Vida moderna
+nome: Stephany dos Anjos Teixeira Alves
+titulo: Vida moderna
 ---
 
 Bom, vida moderna...O que dizer sobre ela? É boa? É ruim? Não sei, aliás, ninguém sabe.

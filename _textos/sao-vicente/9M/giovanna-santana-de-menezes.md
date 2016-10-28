@@ -1,6 +1,6 @@
 ---
-Nome: Giovanna Santana de Menezes
-Titulo: Uma saudade
+nome: Giovanna Santana de Menezes
+titulo: Uma saudade
 ---
 
 Um sentimento, uma saudade, uma lembrança, essas palavras tão fortes que podem mudar sua vida, talvez possam fazer com que você chore, lembre  um momento ruim ou, quem sabe, bom.

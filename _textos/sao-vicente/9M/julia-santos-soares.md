@@ -1,6 +1,6 @@
 ---
-Nome: Julia Santos Soares
-Titulo: Sonho
+nome: Julia Santos Soares
+titulo: Sonho
 ---
 
 Todo mundo tem um sonho, um desejo, um objetivo, mas será que todos conseguem chegar lá, realizá-los? Em mundo cheio de possibilidades, os sonhos podem virar realidade?

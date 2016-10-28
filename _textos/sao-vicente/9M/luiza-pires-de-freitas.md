@@ -1,6 +1,6 @@
 ---
-Nome: Luiza Pires de Freitas
-Titulo: À espera de um sonho
+nome: Luiza Pires de Freitas
+titulo: À espera de um sonho
 ---
 
 Até onde vão nossos sonhos? Há limites para se sonhar? Neste mundo, deixar apenas no papel e no pensamento o que queremos verdadeiramente realizar, sem sair do lugar, não vale a pena.

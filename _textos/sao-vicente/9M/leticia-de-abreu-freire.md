@@ -1,6 +1,6 @@
 ---
-Nome: Letícia de Abreu Freire
-Titulo: Se todos os homens do mundo
+nome: Letícia de Abreu Freire
+titulo: Se todos os homens do mundo
 ---
 
 Se todos os homens do mundo ajudassem, ninguém sentiria fome.

@@ -1,6 +1,6 @@
 ---
-Nome: Larissa Peixoto Soares
-Titulo: Violência
+nome: Larissa Peixoto Soares
+titulo: Violência
 ---
 
 Na minha opinião, o que mais angustia as pessoas, nesses tempos modernos, é que a maioria dos jovens, até adultos, passam muito tempo no telefone e também as brigas desnecessárias, por exemplo, por causa do futebol ou até mesmo as agressões contra homossexuais.

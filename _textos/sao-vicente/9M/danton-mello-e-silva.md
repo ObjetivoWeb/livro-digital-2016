@@ -1,6 +1,6 @@
 ---
-Nome: Danton Mello e Silva
-Titulo: Comunicação
+nome: Danton Mello e Silva
+titulo: Comunicação
 ---
 
 Hoje em dia, as pessoas, com o avanço da era digital, acabam perdendo o convívio com a família e os amigos porque os celulares e computadores acabam fazendo essa função de comunicar, sem a necessidade de se deslocarem para uma simples conversa com alguma pessoa.

@@ -1,6 +1,6 @@
 ---
-Nome: Karine Leal Stein
-Titulo: Um Sentimento
+nome: Karine Leal Stein
+titulo: Um Sentimento
 ---
 
 <p>

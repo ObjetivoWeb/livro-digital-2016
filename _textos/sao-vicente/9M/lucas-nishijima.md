@@ -1,6 +1,6 @@
 ---
-Nome: Lucas Nishijima 
-Titulo: Destruição
+nome: Lucas Nishijima 
+titulo: Destruição
 ---
 
 <p>

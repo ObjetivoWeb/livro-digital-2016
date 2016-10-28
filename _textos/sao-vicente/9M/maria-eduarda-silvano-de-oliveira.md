@@ -1,6 +1,6 @@
 ---
-Nome: Maria Eduarda Silvano de Oliveira
-Titulo: Máscara
+nome: Maria Eduarda Silvano de Oliveira
+titulo: Máscara
 ---
 
 Nem tudo o que aparentamos é o que somos em nosso interior.

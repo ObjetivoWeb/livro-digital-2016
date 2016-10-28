@@ -1,6 +1,6 @@
 ---
-Nome: Edgar dos Santos Ramos
-Titulo: Você me desculpa?
+nome: Edgar dos Santos Ramos
+titulo: Você me desculpa?
 ---
 
 Perdoar um erro de outra pessoa é um ato muito nobre, porém devemos fazê-lo com certa restrição e consciência.

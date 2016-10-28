@@ -1,6 +1,6 @@
 ---
-Nome: Kaue Miziara Bastos
-Titulo: A viagem
+nome: Kaue Miziara Bastos
+titulo: A viagem
 ---
 
 Isso já faz alguns anos. Eu estava em um navio fazendo uma volta pelo mundo. A viagem duraria por volta de  quatro meses, ficando um mês em cada continente (a mesma empresa que promoveu a viagem já havia feito um tour pela América, então, desta vez, só passaria pelos outros continentes).

@@ -1,6 +1,6 @@
 ---
-Nome: Fernanda Ferrari de Farias
-Titulo: A vida
+nome: Fernanda Ferrari de Farias
+titulo: A vida
 ---
 
 Hoje em dia, a maioria das pessoas não valoriza os momentos tão importantes como estar junto dos filhos, um almoço em família no domingo, um “bom-dia” que se recebe e nem percebe como está a pessoa.

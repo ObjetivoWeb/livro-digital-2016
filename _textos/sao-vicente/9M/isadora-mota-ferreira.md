@@ -1,6 +1,6 @@
 ---
-Nome: Isadora Mota ferreira
-Titulo: Problemas da vida moderna
+nome: Isadora Mota ferreira
+titulo: Problemas da vida moderna
 ---
 
 Hoje em dia, há várias coisas acontecendo ao redor do mundo que vêm cada vez mais chocando e angustiando as pessoas.

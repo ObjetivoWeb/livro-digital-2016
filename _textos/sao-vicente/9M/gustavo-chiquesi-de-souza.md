@@ -1,6 +1,6 @@
 ---
-Nome: Gustavo Chiquesi de Souza
-Titulo: A vida hoje, a vida amanhã
+nome: Gustavo Chiquesi de Souza
+titulo: A vida hoje, a vida amanhã
 ---
 
 A vida moderna está melhorando cada vez mais é admirável o avanço da tecnologia e estão evoluindo muitas coisas mais. Já sobre o medo do futuro, não deveria existir porque o que for para acontecer, vai acontecer.

@@ -1,6 +1,6 @@
 ---
-Nome: Maria Fernanda de Azevedo Malavazi
-Titulo: Vitória sobre rodas
+nome: Maria Fernanda de Azevedo Malavazi
+titulo: Vitória sobre rodas
 ---
 
 O momento mais feliz da minha vida aconteceu quando eu competi na patinação pela primeira vez.

@@ -1,6 +1,6 @@
 ---
-Nome: Nathália Bianchini Clemente 
-Titulo: A formatura
+nome: Nathália Bianchini Clemente 
+titulo: A formatura
 ---
 
 A formatura é uma das coisas mais importantes na nossa vida, cada um se forma no seu tempo, alguns repetem, outros passam direto, outros pulam alguns anos, mas todos passam por essa experiência uma hora. Todos alternam momentos felizes e tristes, todos têm esses momentos. E essa época é especial, cheia de amor e alegria. Todos demoram horas se arrumando e sorriem o tempo todo. No coração, a sensação de alegria e emoção, mas, ao mesmo tempo, surge a dor daqueles que vão embora depois de ficarem anos conosco.

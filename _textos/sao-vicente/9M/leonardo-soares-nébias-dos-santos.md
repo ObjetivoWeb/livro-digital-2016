@@ -1,6 +1,6 @@
 ---
-Nome: Leonardo Soares Nébias dos Santos
-Titulo: Século 21
+nome: Leonardo Soares Nébias dos Santos
+titulo: Século 21
 ---
 
 Hoje, em pleno século 21, pessoas ainda morrem de câncer e outros males. Sabe por quê?

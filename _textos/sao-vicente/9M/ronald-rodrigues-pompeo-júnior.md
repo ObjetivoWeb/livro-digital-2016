@@ -1,6 +1,6 @@
 ---
-Nome: Ronald Rodrigues Pompeo Júnior
-Titulo: La Moderne
+nome: Ronald Rodrigues Pompeo Júnior
+titulo: La Moderne
 ---
 
 Estamos vivendo os últimos meses de 2016.As pessoas do passado diriam: "Deve ser um tempo moderno , cheio de aparelhos novos e até estradas no céu! " Mas não é bem assim. Em algumas partes, podemos concordar com a afirmação, temos realmente muitos aparelhos tecnológicos novos, mas seria esse um tempo moderno? Honestamente, não.

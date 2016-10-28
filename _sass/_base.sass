@@ -19,6 +19,11 @@ body
     font-feature-settings: "kern" 1
     font-kerning: normal
 
+    box-sizing: border-box
+
+    *
+        box-sizing: inherit
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
 h1, h2, h3, h4, h5, h6,
@@ -59,12 +64,10 @@ h1, h2, h3, h4, h5, h6
 /**
  * Links
 a
-    color: $brand-color
+    color: darken($brand-color, 15%)
     text-decoration: none
-    &:visited
-        color: darken($brand-color, 15%)
-    &:hover
-        color: $text-color
+    &:hover, &:focus
+        color: $brand-color
         text-decoration: underline
 
 /**

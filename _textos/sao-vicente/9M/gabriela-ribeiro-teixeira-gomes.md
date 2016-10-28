@@ -1,6 +1,6 @@
 ---
-Nome: Gabriela Ribeiro Teixeira Gomes
-Titulo: Mar
+nome: Gabriela Ribeiro Teixeira Gomes
+titulo: Mar
 ---
 
 <p>

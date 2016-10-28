@@ -1,6 +1,6 @@
 ---
-Nome: Victor Zoghaib Conde Ventura
-Titulo: Exploração Humana – o maior problema atual
+nome: Victor Zoghaib Conde Ventura
+titulo: Exploração Humana – o maior problema atual
 ---
 
 Concordo com o fato que existam vários outros problemas sociais sérios, como a fome, a guerra, a violência, a pobreza etc.

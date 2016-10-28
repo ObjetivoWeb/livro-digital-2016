@@ -1,6 +1,6 @@
 ---
-Nome: Kamily Ramos Pereira
-Titulo: Doações de Sonhos
+nome: Kamily Ramos Pereira
+titulo: Doações de Sonhos
 ---
 
 Sonhos existem para quem tem noção da realidade. Você pode sonhar tão alto e, ao acordar, não fazer nada para que esse sonho vire realidade ou você pode sonhar mais alto ainda e, ao acordar, lutar para que esse sonho vire realidade. Se escolher a primeira opção, a decepção poderá vir em dobro, castelos se desfazem , do nada. Um contexto multicolorido perde as cores mais vibrantes e o preto e o branco tomam conta do cenário.

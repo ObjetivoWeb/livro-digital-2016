@@ -1,6 +1,6 @@
 ---
-Nome: Lucas Gabriel Abul Hiss Sagaz
-Titulo: Problemas modernos
+nome: Lucas Gabriel Abul Hiss Sagaz
+titulo: Problemas modernos
 ---
 
 Antigamente, sem toda essa tecnologia, não havia tantas mortes, assassinatos e brigas. Por conta dessa tecnologia, aumentou o número de homicídios pelo mundo todo.
