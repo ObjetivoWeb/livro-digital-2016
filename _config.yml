@@ -10,7 +10,7 @@ url: "https://objetivoweb.github.io"
 # Build settings
 markdown: kramdown
 
-css:
+sass:
   style: compressed
 
 gems:
