@@ -30,6 +30,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm
+    margin-top: $spacing-unit / 2
     margin-bottom: $spacing-unit / 2
 
 /**
@@ -50,11 +51,6 @@ figcaption
  * Lists
 ul, ol
     margin-left: $spacing-unit
-
-li
-    > ul,
-    > ol
-        margin-bottom: 0
 
 /**
  * Headings
@@ -79,6 +75,8 @@ blockquote
     font-size: 18px
     letter-spacing: -1px
     font-style: italic
+    > :first-child
+        margin-top: 0
     > :last-child
         margin-bottom: 0
 

@@ -34,5 +34,5 @@
 </div>
 
 <nav class="menu-unidades">{% assign crumbs = page.url | split: '/' %}
-  <div class="wrapper">{% for post in site.unidades %}<a{% if crumbs[1] == post.name %} class="selected"{% endif %} href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% endfor %}</div>
+  <div class="wrapper">{% for link in site.unidades %}<a{% if crumbs[1] == link.name %} class="selected"{% endif %} href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>{% endfor %}</div>
 </nav>
