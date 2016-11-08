@@ -161,6 +161,7 @@
  * Page content
 .page-content
     padding: $spacing-unit 0
+    letter-spacing: 1px
 
 .page-heading
     font-size: 20px
@@ -276,3 +277,30 @@
         font-size: 20px
         +media-query($on-laptop)
             font-size: 18px
+
+.share-widget
+    margin-bottom: $spacing-unit
+
+    .share-item
+        margin-right: $spacing-unit / 2
+
+        .wbtn
+            display: inline-block
+            line-height: 0
+            padding: 5px
+            svg
+                width: 25px
+                height: 25px
+                color: inherit
+                *
+                    fill: currentcolor
+            &.btn-fb
+                background-color: $grey-color-light
+            &.btn-tw
+                background-color: $grey-color-light
+            &.btn-li
+                background-color: $grey-color-light
+            &.btn-gp
+                background-color: $grey-color-light
+            &.btn-wa
+                background-color: $grey-color-light
