@@ -168,6 +168,7 @@
 .post-list
     margin-left: 0
     list-style: none
+    position: relative
 
 .post-section
     padding-top: $spacing-unit
@@ -177,22 +178,22 @@
     z-index: 2
 
 .post-item
+    @extend %z-index-fallback
     margin-bottom: $spacing-unit
     padding: $spacing-unit / 2
     background-color: $grey-color-light
     border-radius: 4px
     overflow: hidden
-    @extend %z-index-fallback
 
-    .post-meta
-        color: #fff
-        text-shadow: -1px 1px 1px $grey-color-dark
-
-    &:not(:hover) .post-excerpt
-        opacity: 0
-        transform: translateY(50%)
-    &:hover .post-pic
-        opacity: .3
+    +media-greater($on-palm)
+        &.has-flicker-image:not(:hover) .post-excerpt
+            opacity: 0
+            transform: translateY(50%)
+        &:hover .post-pic
+            opacity: .1
+        .post-meta
+            color: #fff
+            text-shadow: -1px 1px 1px $grey-color-dark
 
 .post-pic
     position: absolute
@@ -214,20 +215,26 @@
         min-height: 100%
         width: auto
         height: auto
+    +media-query($on-palm)
+        overflow: hidden
+        position: relative
+        &:not(:empty)
+            height: 120px
 
 .post-link
+    @extend %z-index-fallback
     display: block
     font-size: 24px
     line-height: 1
-    background-color: rgba($grey-color-light, .7)
-    margin: 0 $spacing-unit 0 -#{ $spacing-unit / 2 }
-    border-radius: 0 4px 4px 0
-    padding: 5px $spacing-unit / 2
-    @extend %z-index-fallback
+    +media-greater($on-palm)
+        background-color: rgba($grey-color-light, .7)
+        margin: 0 $spacing-unit 0 -#{ $spacing-unit / 2 }
+        border-radius: 0 4px 4px 0
+        padding: 5px $spacing-unit / 2
 
 .post-excerpt
-    transition: .3s ease-in-out
     @extend %z-index-fallback
+    transition: .3s ease-in-out
 
 .post-meta
     font-size: $small-font-size

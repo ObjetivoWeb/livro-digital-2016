@@ -21,6 +21,7 @@ turmas.forEach (turma) ->
 			imgContainer = turma.querySelector '[data-pic-title="' + p.title + '"]'
 			if imgContainer
 				imgContainer.innerHTML = '<img src="' + photoURL(p) + '" alt="' + p.title.replace( '-', ' ' ) + '">'
+				imgContainer.parentNode.classList.add 'has-flicker-image'
 
 cover = $( '.data-img' )[0]
 if cover
