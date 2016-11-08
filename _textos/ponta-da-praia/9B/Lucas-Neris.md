@@ -1,0 +1,17 @@
+---
+nome: Lucas Néris
+titulo: Segurança pública nos estados do Brasil
+---
+
+Hoje em dia, passamos sufoco em diversas situações sobre a segurança pública, estudos concretam que após a lei do desarmamento, o índice de roubos, assassinatos e latrocínios aumentaram, com isto foi se criando leis para que se possa ter o porte de uma arma de fogo para aqueles que tenham documentação e juízo mental.
+
+Análises que porcentuais mostram que cada vez mais nós estamos na mão de bandidos, defensores tentam criar leis para que se possa facilitar a vida daquele que foi preso, de acordo com pesquisas mundiais o Brasil é o único país a ter mais polícias mortos em serviço e de folga, mostrando também que o Brasil é o país com maior índice de assassinatos por dia, chegando em até cento e treze pessoas mortas por cem mil habitantes, após a lei do desarmamento houve muito mais mortes do que o esperado, sendo assim um aumento de setenta e seis por cento de portes por arma de fogo.
+
+Com toda a insegurança dos cidadãos e da própria segurança pública, os defensores da lei ao cidadão e ao policial criam leis para que se possa colocar em prática leis criadas pelo governo.
+
+No ano de dois mil e dezesseis, foi se concretado que novecentos presos por homicídios serão soltos sem o monitoramento das forças de segurança. Há dois anos foi concretado que se o cidadão Brasileiro ou funcionário de segurança pública reagir a um suposto assalto e por acaso o infrator vier a óbito, ele será preso temporariamente e depois decretada a decisão pelo juiz, podendo assim ser culpado por assassinato ou não.
+
+De acordo com os direitos humanos, o funcionário de segurança pública só deverá reagir a um suspeito armado caso o suspeito atire primeiro, no mês de agosto de dois mil e dezesseis, foi se criado um parlamento para que a polícia utilize armas apreendidas, pelo motivo de que os bandidos utilizarem armas de grosso calibre, utilizadas em guerras, armas de calibre sete ponto meia dois, cinco ponto cinco meia e calibre ponto cinquenta  metralhadora antiaérea, capaz de derrubar caças militares e perfurar blindados do exército. De acordo com o número representado pelo estado de São Paulo existem mais de duzentos e quarenta e oito milhões de reais foram gastos com armamento para as forças de segurança do estado, porém mais de sessenta por cento dos armamentos foram diagnosticados com algum problema técnico, fazendo assim muitas vítimas de tal armamento produzido pela empresa Taurus, uma das únicas empresas autorizadas a produzir armamento nacional, por sua vez tem mais de vinte processos feitos por funcionário de segurança pública, demonstrando defeitos nos equipamentos, mas até agora apenas um foi ganho, os funcionários da força de segurança pública brigam para que se possa quebrar a lei que diz que apenas armamentos criados nacionalmente podem ser utilizados, a atual empresa de material bélicos a Imbel, empresa das forças nacionais de segurança do Brasil, tem amis de quarenta pedidos pare que possa ajudar os seguranças dos estados do pais, pois a Imbel é uma empresa nacional capacitado apela lei, e com nenhum índice de defeitos em matérias bélicos criado pela tal, mas a Imbel é uma indústria bélica para artefatos de guerra com que a faz então não poder fazer a distribuição de armas a segurança pública do estado.
+
+Assim, continua a briga pela segurança pública, tendo ainda vários fatores a melhorar, e discutir.
+

@@ -1,0 +1,16 @@
+---
+nome: Pietra Malentaqui Miranda
+titulo: Abacaxi
+---
+
+Nesses últimos anos,  muitas pessoas me fizeram feliz, outras me decepcionaram, varias me fizeram sorrir ou  chorar. Aprendi muito sobre amizade, pessoas que nunca imaginei , hoje são muito importantes para mim , e outras que eram muito importantes para mim,  hoje nem converso mais... Mas a vida é uma constante mudança , assim como as pessoas, mas na verdade,  as pessoas não mudam elas apenas se revelam.
+
+No começo do Ensino Fundamental II,  minhas melhores amigas mudaram de escola, e eu pensei que eu nunca iria encontrar outras amizades que pudessem ocupar o lugar delas; mas com o passar do tempo,  eu encontrei pessoas que hoje são melhores do que qualquer amizade que eu já tive . Conheci duas das melhores pessoas que poderia ter conhecido.  Durante três anos éramos   apenas nos três , todos os dias  estávamos juntas, foi sem duvidas a melhor época da minha vida. Elas me fizeram mais feliz do que eu imaginei que poderia ser,  pois com elas,  eu conheci o verdadeiro significado da amizade,  éramos inseparáveis. Foram tantos momentos, tantas historias que dariam para escrever um livro.  Éramos muito diferentes,  mas parecia que as nossas diferenças nos completavam, todos os meus finais de semana estava  com elas,  e ate durante a semana, nada  nos separava. Com elas perdi muitos medos, enfrentei muitas situações,  Naquela época,  não conseguia me imaginar sem elas ao meu lado.
+
+Juntas,  conhecemos muitas pessoas e lugares , vivemos muitas aventuras. Elas eram pessoas de quem eu nunca imaginei me aproximar, mas viraram  as pessoas mais incríveis e especiais que poderia ter conhecido , nunca passei tanto tempo com alguém como passei com elas, foram viagens, shows, passeios, risadas, elas me conheciam e me entendiam melhor do que eu mesma , ajudavam-me  em qualquer situação,  viram-me  chorando.  Nós  tínhamos um símbolo que era um abacaxi, ele representava a nossa amizade . Quando nos estávamos juntas nos não ligávamos para nada.
+
+Mas no ano passado,  começamos a nos afastar, umas delas mudou de escola, e eu  e minha outra amiga não aceitamos muito bem, Desde o começo,  achávamos que aquilo nos afastaria, brigamos muitas vezes, mas a nossa amizade era mais forte, mas com o tempo começaram a haver mudanças, nos três mudamos muito, e isso foi nos afastando cada vez mais . No final do ano passado,  quase não saíamos mais, a única coisa que nos unia era a casa de uma delas na praia de Pernambuco e nossos dois amigos de São Paulo. Nesse ano,  a que eu mais tinha contato e que estava sempre comigo,  entrou no Ensino Médio , e era o restinho que faltava para nos afastar de vez, novas amizades, novo jeito de ver o mundo...
+
+Hoje nos três não saímos mais, falamos com menos frequência,  não conseguimos ser a mesma coisa com apenas duas, mas não vai voltar, mesmo que  tentemos,  que   nunca voltarão. O que podemos fazer é guardar os momentos bons na memória, porque sem dúvidas elas são pessoas de quem eu mais sinto falta nesse mundo. Sempre pensei que a nossa amizade fosse mais forte do que as mudanças , mas há algo que aprendi , nada dura para sempre então temos que aproveitar os momentos antes que acabem.
+
+
