@@ -2,14 +2,30 @@
 layout: default
 ---
 
+{% assign crumbs = page.url | split: '/' %}
+
+{% for u in site.unidades %}
+  {% if u.name == crumbs[1] %}
+    {% assign unidade = u.title %}
+    {% for t in u.turmas %}
+      {% if t.id == crumbs[2] %}
+        {% assign turma = t.nome %}
+        {% assign flickr = t.flickr_id %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
 <article class="post">
 
   <header class="post-header">
+
     <h1 class="post-title">{% if page.titulo %}{{ page.titulo }}{% else if page.title %}{{ page.title }}{% endif %}</h1>
-    <div class="post-meta">
-      <p>{{ page.nome }}</p>
-    </div>
-    <p><img src="" alt="Ilustração para {{ page.title }}, de {{ page.nome }}"></p>
+    <aside class="post-meta">
+      <p><strong>{{ page.nome }}</strong> <br>{{ unidade }} - {{ turma }}</p>
+    </aside>
+    <div class="data-img" data-flickr-id="{{ flickr }}" data-pic-title="{{ crumbs[3] }}" title="Ilustração para {{ page.title }}, de {{ page.nome }}"></div>
+
   </header>
 
   <div class="post-content">

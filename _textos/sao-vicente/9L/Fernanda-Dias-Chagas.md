@@ -1,5 +1,5 @@
 ---
-nome: Fernanda Dias Chaga
+nome: Fernanda Dias Chagas
 titulo: Está acabando
 ---
 

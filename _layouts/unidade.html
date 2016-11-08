@@ -22,14 +22,24 @@ layout: default
 {% endfor %}
 
 {% for turma in page.turmas %}
-  <section class="post-section" data-turma="{{ turma.id }}" data-grid="spacing cols-2">
+
+  <section class="post-section" data-turma="{{ turma.id }}" data-flickr-id="{{ turma.flickr_id }}" data-grid="spacing cols-2">
+
   {% for post in site.textos %}{% assign crumbs = post.url | split: '/' %}{% if crumbs[1] == page.name and crumbs[2] == turma.id %}
+
     <article class="post-item">
+
+      <div class="post-pic" data-pic-title="{{ crumbs[3] }}"></div>
       <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">{% if post.titulo %}{{ post.titulo }}{% else %}{{ post.title }}{% endif %}</a></p>
       <p class="post-meta"><span class="post-autor">{{ post.nome }}</span> <span class="post-turma">{{ turma.nome }}</span></p>
-      <p>{{ post.excerpt | strip_html | truncatewords: 16 }}</p>
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 16 }}</p>
+
     </article>
+
   {% endif %}{% endfor %}
+
   </section>
+
 {% endfor %}
+
 </div>

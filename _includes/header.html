@@ -33,6 +33,17 @@
   <h2 class="site-subtitle">Liberdade de expressão</h2>
 </div>
 
-<nav class="menu-unidades">{% assign crumbs = page.url | split: '/' %}
-  <div class="wrapper">{% for link in site.unidades %}<a{% if crumbs[1] == link.name %} class="selected"{% endif %} href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>{% endfor %}</div>
+<nav class="menu-unidades">
+  {% assign crumbs = page.url | split: '/' %}
+
+  <div class="wrapper">
+
+  {% for link in site.unidades %}
+
+    <a{% if crumbs[1] == link.name %} class="selected"{% endif %} href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+
+  {% endfor %}
+
+  </div>
+
 </nav>
