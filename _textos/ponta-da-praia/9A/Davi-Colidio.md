@@ -1,5 +1,5 @@
 ---
-nome: davi Colídio
+nome: Davi Colídio
 titulo: Internet e Suas Limitações
 ---
 
