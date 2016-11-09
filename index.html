@@ -3,3 +3,24 @@ layout: default
 title: Liberdade de expressão
 ---
 
+<article class="page-content">
+	<blockquote>
+		<p>Liberdade de expressão é o direito de qualquer indivíduo manifestar, livremente, opiniões, ideias e pensamentos pessoais sem medo de retaliação ou censura por parte do governo ou de outros membros da sociedade. É um conceito fundamental nas democracias modernas nas quais a censura não tem respaldo moral.</p>
+		<p>
+			<small>— <a href="https://pt.wikipedia.org/wiki/Liberdade_de_expressão" target="_blank">Liberdade de expressão – Wikipédia, a enciclopédia livre</a></small>
+		</p>
+	</blockquote>
+</article>
+
+{% for page in site.pages %}
+	{% if page.menu-title %}
+		<article class="page-content">
+			<h4><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h4>
+			<p>{{ page.excerpt }}&hellip; <a href="{{ page.url | prepend: site.baseurl }}">Saiba mais</a></p>
+		</article>
+	{% endif %}
+{% endfor %}
+
+<aside class="page-content">
+	<p>Navegue pelas unidades, leia e compartilhe os textos. E não se esqueça de deixar o seu comentário no final dos textos.</p>
+</aside>

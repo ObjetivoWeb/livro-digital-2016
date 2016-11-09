@@ -1,9 +1,7 @@
 title: Livro Digital 2016
 tagline: Liberdade de Expressão
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Projeto de redação dos alunos do 9º ano de 2016. As redações são de temas à escolha dos autores. Navegue, leia, compartilhe e comente.
 baseurl: "/livro-digital-2016" # the subpath of your site, e.g. /blog
 url: "http://objetivoweb.com.br"
 

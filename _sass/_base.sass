@@ -57,6 +57,10 @@ ul, ol
 h1, h2, h3, h4, h5, h6
     font-weight: $base-font-weight
 
+@for $i from 1 through 6
+    h#{$i}
+        font-size: $base-font-size + $base-font-size / $i
+
 /**
  * Links
 a
@@ -72,8 +76,7 @@ blockquote
     color: $grey-color
     border-left: 4px solid $grey-color-light
     padding-left: $spacing-unit / 2
-    font-size: 18px
-    letter-spacing: -1px
+    letter-spacing: 0
     font-style: italic
     > :first-child
         margin-top: 0
