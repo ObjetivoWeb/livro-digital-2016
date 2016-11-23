@@ -3,10 +3,11 @@ nome: Alessandro Marques Desidério
 titulo: Msc Splendida
 ---
 
-Um dia eu fui viajar de navio:  O MSC. Com todos sorrindo os funcionário amigáveis ajudavam nas duvidas e em relação com os eventos do navio como exercícios físicos e locais de festa .
+Fiz uma viagem no navio MSC. Com todos sorrindo, e funcionários amigáveis ajudavam nas dúvidas com relação aos eventos como exercícios físicos e locais de festa.
 
-A janta foi as melhores degustação que eu já desfrutei na vida  um show de sabores, e lógico que eu não poderia deixar de argumentar sobre o teatros que tinha depois  da janta o  melhor foi a musica que eles cataram POR TI VOLVARE
+O jantar contou com as melhores degustações de que já desfrutei na vida, um show de sabores, e lógico que eu não poderia deixar de argumentar sobre o teatro. Depois da refeição, o melhor foi a música que eles cantaram POR TI VOLVARE.
 
-E eu quase esta esquecendo de falar sobre as melhores imagens que era a natureza com o mar azul e de noite o vento batendo suavemente trazendo um friozinho gostoso e o céu com as belas e mais bonitas imagens do eu as estrelas a lua e o mar calmo.
+Ah, quase me esqueci de falar sobre as melhores imagens vistas da natureza como o mar azul e, à noite, o vento batendo suavemente trazendo um friozinho gostoso e, no céu as belas estrelas, a lua e o mar calmo.
 
-Nós paramos cada lugar splendido e maravilhoso a ilha bela Bahia entre outros lugares bonito foi poucos dias mas deu para aproveitar que pena só foi 7 dias  eu adorei essa viagens a piscina ótimas.
+Nós paramos em lugares esplêndidos, mas a ilha Bela Bahia é maravilhosa, entre outros. Amei também as piscinas! Foram poucos dias, mas deu para aproveitar. Inesquecível!!!!!!
+
