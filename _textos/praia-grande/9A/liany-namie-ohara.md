@@ -1,5 +1,5 @@
---
-nome:Liany Namie Ohara
+---
+nome: Liany Namie Ohara
 titulo: Grafite
 ---
 
