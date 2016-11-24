@@ -3,7 +3,7 @@ nome: Gabriel Mendes
 titulo: Longe da Tecnologia
 ---
 
-Antigamente, os jovens iam brincar, se divertir com os amigos fora de casa. Nesta época, que não existiam computadores e nem televisores, havia pouca tecnologia(comparada a de hoje), o ar era mais puro e as crianças eram mais saudáveis.Atualmente, os jovens veem Tv sempre que podem.
+Antigamente, os jovens iam brincar, se divertir com os amigos fora de casa. Nesta época, que não existiam computadores e nem televisores, havia pouca tecnologia(comparada a de hoje), o ar era mais puro e as crianças eram mais saudáveis.Atualmente, os jovens veem TV sempre que podem.
 
 Quanto mais veem televisão, mais chances têm de morrer mais cedo. Ao ficarem horas na frente de uma televisor ou celular, é comum reduzir a quantidade de vezes que você pisca (essencial para a saúde dos olhos), normalmente piscamos 16 vezes por minuto, já nessa ocasião diminui para 4 vezes.
 

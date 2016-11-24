@@ -3,7 +3,7 @@ nome: Leonardo Rossi
 titulo: A fala através da poesia
 ---
 
-Desde os tempos mais remotos, a poesia construiu sua história e foi aperfeiçoando-se a era moderna, agregando o passado, o presente e o futuro.
+> Desde os tempos mais remotos, a poesia construiu sua história e foi aperfeiçoando-se a era moderna, agregando o passado, o presente e o futuro.
 
 Através de sua expressividade, permitiu e permite florescer no ser humano sensações como: paixão, saudade, dor, alegria, medo, tristeza, entre outros.
 

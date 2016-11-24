@@ -3,7 +3,7 @@ nome: Rafaela Vaz
 titulo: "Pobreza e sustentabilidade: problemas convergentes?"
 ---
 
-O maior desafio em nossa sociedade contemporânea é eliminar a pobreza através do incentivo a educação. Desde tempos antigos, havia uma súbita divergência entre classes sociais como burgueses e servos, ou até mesmo na época da escravidão. A questão é que mesmo em um mundo tão globalizado, além  da pobreza, ainda cresce a falta de conscientização em relação ao meio ambiente. Como podemos associar pobreza à sustentabilidade?
+O maior desafio em nossa sociedade contemporânea é eliminar a pobreza através do incentivo à educação. Desde tempos antigos, havia uma súbita divergência entre classes sociais como burgueses e servos, ou até mesmo na época da escravidão. A questão é que mesmo em um mundo tão globalizado, além  da pobreza, ainda cresce a falta de conscientização em relação ao meio ambiente. Como podemos associar pobreza à sustentabilidade?
 
 A pobreza está relacionada com a má administração do governo na educação e a outros fatores como a intolerância da classe mais alta e grande industrialização, permitindo a substituição de operários por máquinas altamente qualificadas. Sem uma boa educação, as famílias mais pobres acabam por não entendendo o quão importante é o meio ambiente e acabam prejudicando em boa parte a natureza, através das favelas que são construídas em cima de um rio e onde eles acumulam e despejam lixo na água. Além de trazer doenças para esse tipo de população, isso também afeta a nossa natureza verde.
 

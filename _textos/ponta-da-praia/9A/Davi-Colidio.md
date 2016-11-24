@@ -3,7 +3,7 @@ nome: Davi Colídio
 titulo: Internet e Suas Limitações
 ---
 
-Todos nós sabemos que a internet é um sistema global de redes de computadores interligadas que ajudam as pessoas a chegar às respostas com mais eficiência e rapidez.
+Todos nós sabemos que "a internet é um sistema global de redes de computadores interligadas" que ajudam as pessoas a chegar às respostas com mais eficiência e rapidez.
 
 Mas, mesmo com um imenso espaço, as pessoas se limitam a sites e redes sem conhecer o que realmente existem lá dentro e o que você pode encontrar além dessas limitações.
 

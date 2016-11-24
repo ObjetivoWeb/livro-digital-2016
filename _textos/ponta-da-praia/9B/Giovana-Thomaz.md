@@ -1,14 +1,16 @@
 ---
 nome: Giovana Thomaz
-titulo: Um ser corajoso exercita a responsabilidade
+titulo: 
 ---
 
-Coragem e covardia são sentimentos inerentes à raça humana e são demonstradas nas mais diversas situações do cotidiano. As mesmas andam paralelamente no âmbito das emoções. Isso ficou claramente exposto no episódio do naufrágio do navio italiano Costa Concordia em janeiro. Fica evidente que para cada indivíduo da sociedade o que é importante é a dosagem de tais sentimentos.
+A amizade é um dos bens mais preciosos da vida.
 
-Não é raro um indivíduo se deparar em situações que exijam coragem física, como fugir de um criminoso, de um desastre natural, para salvar entes queridos, ou mesmo os que a utilizam como profissão, como policiais, bombeiros e salva-vidas. No entanto, esse sentimento tem uma dimensão mais ampla.
+Amizade é ter uma pessoa que está ao seu lado sempre, é alguém com quem se pode contar até seus segredos mais íntimos.
 
-A coragem ética é o que deve permear as relações humanas. Saber perdoar, agir com responsabilidade e comprometimento ou mesmo saber como lidar em situações tensas, exigem maturidade e censo crítico. Não é não medir as consequências ou enfrentá-las de qualquer jeito, mas é ter a capacidade de avaliar os riscos e ainda assim ousar, fazer o novo.
+Amigo é aquele que ajuda, não importa a situação, é quem sabe dos seus defeitos e o ama do mesmo jeito. Um amigo é como um irmão, como uma pessoa da família, cuida de você do mesmo jeito e o ama acima de tudo.
 
-Foi o que faltou para o capitão Francesco Schettino da embarcação europeia. Ao tomar a decisão de fugir do navio e abandonar os 4000 passageiros e tripulantes, ele não assumiu a responsabilidade pela vida dos demais, cometendo um crime. No Brasil, essa situação fica mais evidente no trânsito. A quantidade de motoristas envolvidos em acidentes graves e que não prestam o devido socorro às vítimas é alarmante, um grotesco sinal de covardia.
+Amizade é uma coisa pura e para se guardar a vida toda. É uma companheira fiel. Triste é quando se perde o contato com alguém que tem bastante significado para a gente. Toda amizade tem seus altos e baixos, discussões, brigas, mas também tem seus momentos incríveis, como as risadas, fofocas, o ombro amigo, e saber que quando algo der errado temos a quem recorrer, chorar e desabafar.
 
-Logo, evidencia-se que a covardia e a coragem residem em cada indivíduo e sua manifestação depende, entre outros fatores, do caráter de cada um. Tais sentimentos são de extrema importância, pois podem lidar com a própria vida ou a de outras pessoas. É necessário exercitar a coragem ética nas pequenas decisões cotidianas, sem medo de frustrações ou equívocos, para que, ao lidar com situações extremas, maior seja a capacidade crítica de avaliar os riscos e agir com responsabilidade.
+Amizade não são só momentos bonitos e bons. Tem seus momentos ruins também.
+
+Amizade é uma coisa para ser valorizada e levada para o resto da vida.

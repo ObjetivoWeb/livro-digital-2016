@@ -1,6 +1,6 @@
 ---
 nome: Matheus Diniz
-titulo: A influência da Tecnologia na nossa nida
+titulo: A influência da Tecnologia na nossa vida
 ---
 
 A tecnologia está em toda a parte, no trabalho, nas pesquisas, nos estudos, nas compras, nos lazeres e demais atividades da vida humana, tendo como objetivo facilitar a vida do ser humano, economizando seu tempo e tornando mais fácil o acesso à informação e a comunicação.

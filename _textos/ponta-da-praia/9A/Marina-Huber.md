@@ -13,5 +13,5 @@ Isso pode parecer mentira, mas é a realidade. Em vários lugares do mundo, vár
 
 As evidências mostram que não é indicado o exagero enquanto utilizar o aplicativo. Você pode jogar tranquilamente, mas de forma moderada para que não precise ter preocupações.
 
-— Marina Olivetti Huber
+
 

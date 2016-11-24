@@ -26,6 +26,7 @@ Dona Rosa tirou os biscoitos do forno e os colocou sobre a mesa e foi abrir a po
 — Mas, não é tão simples assim, meu neto, tem que ter prática, e sua mãe aprendeu quando tinha 7 anos. E você pode aprender também.
 
 — O que? Isso é coisa para mulher 
+
 — Por isso que nos só ensinamos para as mulheres da família não para homem- falou a vó rindo muito... mexendo a cabeça...
 
 — Vó tenho que ir, vou numa festa.

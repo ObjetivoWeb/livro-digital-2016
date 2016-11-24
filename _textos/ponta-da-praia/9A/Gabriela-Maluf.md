@@ -1,12 +1,15 @@
 ---
 nome: Gabriela Maluf
-titulo: Brincadeira de criança, como é bom
+titulo: Coisa para se guardar
 ---
 
-Brincar é também um meio de comunicação. É um aprendizado que facilita a construção da criatividade e autonomia, amplia o relacionamento com os outros indivíduos e a perspectiva da lógica.
+A amizade é valiosa quando é verdadeira, e quando é verdadeira é mais encantadora.
 
-Esse ato deveria ser muito presente em nossas vidas. Não só significa recrear. É muito mais que isso, é conseguir comunicar-se consigo mesmo e com o mundo, desenvolvendo as áreas de personalidades como afetividade, inteligência, sociabilidade e pensamentos.
+Não importa a distância, o que importa é estar distante e nada mudar.
 
-Ao adotar papéis na brincadeira, as crianças agem frente à realidade de maneira fictícia, substituindo e transferindo essas ações no dia a dia.
+Amigo está sempre presente nas horas boas e ruins, sempre presente dando apoio e ajuda para seguir em frente. Por isso a amizade se torna tão especial, e devemos preservá-la e nunca deixar escapar.
 
-Portando, a brincadeira tem muita importância no desenvolvimento infantil, podendo transformar e produzir novos significados, expressa seu caráter ativo, no curso do seu amadurecimento.
+Dependendo do tamanho, a amizade pode tornar-se, em vez de só  termos amigos,
+um relacionamento de irmãos. As evidências de uma amizade verdadeira mostram que devemos guardar no coração e não deixar escapar esses amigos.
+
+> Amigo é coisa para se guardar debaixo de sete chaves.

@@ -3,7 +3,7 @@ nome: Wesley Anjos
 titulo: Copa de 2002
 ---
 
-Alí, naquele grupo, tinha um pouco de tudo: existia talento muito grande de cada um no que cada um fazia. Até mesmo um comando de que aquele grupo precisava para saber conduzir e controlar a parte emocional. Para os mais jovens, era aquela coisa do pai e mãe, se fizer uma coisa errada, ele vai puxar a  orelha para  todos, era um aprendizado diário. Todos ficavam  perto do ilustre  Cafu, um ídolo muito grande. As experiências de cada um unidas por um objetivo -
+Ali, naquele grupo, tinha um pouco de tudo: existia talento muito grande de cada um no que cada um fazia. Até mesmo um comando de que aquele grupo precisava para saber conduzir e controlar a parte emocional. Para os mais jovens, era aquela coisa do pai e mãe, se fizer uma coisa errada, ele vai puxar a  orelha para  todos, era um aprendizado diário. Todos ficavam  perto do ilustre  Cafu, um ídolo muito grande. As experiências de cada um unidas por um objetivo -
 
 GANHAR A COPA
 

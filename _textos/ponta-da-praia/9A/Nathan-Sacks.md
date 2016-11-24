@@ -3,7 +3,7 @@ nome: Nathan Sacks
 titulo: A Corrida Não Olímpica
 ---
 
-Rio, era onde eu estava, era dia oito de agosto de 2016, véspera de um grande jogo olímpico, Brasil vs. México no futebol masculino. Nesse dia de véspera eu tinha acordado e percebi que meu pai estava fora de casa, eu não sabia aonde ele tinha ido, fiquei preocupado pois tentava ligar para ele, mas ele não atendia.
+Rio, era onde eu estava, era dia 8 de agosto de 2016, véspera de um grande jogo olímpico, Brasil vs. México no futebol masculino. Nesse dia de véspera eu tinha acordado e percebi que meu pai estava fora de casa, eu não sabia aonde ele tinha ido, fiquei preocupado pois tentava ligar para ele, mas ele não atendia.
 
 Então eu decidi descer para a piscina do meu prédio para me distrair um pouco, e fiquei lá vendo o jogo de handball, Polônia vs. Noruega, gostei muito do jogo e de ver todo aquele espírito olímpico no estádio e no parque olímpico e aí, me deu uma imensa vontade de ir há algum jogo, só mesmo para ver de pertinho toda aquela emoção vivida não só pelos jogadores, mas sim também pela torcida.
 
