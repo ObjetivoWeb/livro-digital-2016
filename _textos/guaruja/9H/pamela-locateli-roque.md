@@ -1,5 +1,5 @@
 ---
-nome: Pâmela Locatelli Roque 
+nome: Pamela Locateli Roque 
 titulo: Saudade
 ---
 
