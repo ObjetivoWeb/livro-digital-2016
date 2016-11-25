@@ -3,7 +3,7 @@ titulo: Amizade com liberdade de expressão
 nome: Emily Melo
 ---
 
-Em uma noite de outono, haviam duas meninas conversando no parque próximo de suas casas, elas pareciam irmãs, pois viviam sempre juntas. Ana era a mais velha, e Carol um ano mais nova. As duas sempre gostavam de debater sobre os assuntos modernos da atualidade, como por exemplo: política, homossexualidade, feminismo, e etc.
+Em uma noite de outono, havia duas meninas conversando no parque próximo de suas casas, elas pareciam irmãs, pois viviam sempre juntas. Ana era a mais velha, e Carol um ano mais nova. As duas sempre gostavam de debater sobre os assuntos modernos da atualidade, como por exemplo: política, homossexualidade, feminismo, e etc.
 
 Como elas eram muito próximas, elas tinham total liberdade de expressão uma com a outra, e o melhor era que suas opiniões, na maioria das vezes, eram sempre parecidas.
 

@@ -11,5 +11,5 @@ Alguns a utilizam como válvula de escape da realidade. Outros a interpretam e s
 
 Ela preenche o vazio do silêncio da solidão e conforta os corações amantes de poesia.
 
-A música, uma das maiores liberdades de expressão, anda de mãos dadas com a poesia, com o cotidiano de cada ser que nessa Terra abita, e principalmente, com o sentimentalismo.
+A música, uma das maiores liberdades de expressão, anda de mãos dadas com a poesia, com o cotidiano de cada ser que nessa Terra habita, e principalmente, com o sentimentalismo.
 

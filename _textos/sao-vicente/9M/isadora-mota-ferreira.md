@@ -1,5 +1,5 @@
 ---
-nome: Isadora Mota ferreira
+nome: Isadora Mota Ferreira
 titulo: Problemas da vida moderna
 ---
 

@@ -11,4 +11,4 @@ Tal dia o casal já nao aguentava mais a tal rincha de os dois nao poderem se ve
 
 1 ano depois de encontros escondidos no café, o pai do rapaz estava passando na rua e estranhou ver o filho justamente aquela hora da tarde no café entao decidiu entrar no café para falar com o filho quando se aproximou ele viu o que estava acontecendo e já entendeu que o filho estava namorando escondido com uma das pessoas que ele mais odiára mas depois ele percebeu que a rincha era boba e nao interferiu em nada apenas seguiu o seu caminho para onde estava indo.
 
-4 anos depois no começo do século tal rincha já havia acabado e os dois jovens se cassam com a permissao dos pais. A rincha havia acabado mas o amor dos dois jovens nao.
+Quatro anos depois, no começo do século, tal rincha já havia acabado e os dois jovens se casam com a permissao dos pais. A rincha havia acabado mas o amor dos dois jovens não.

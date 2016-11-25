@@ -17,6 +17,6 @@ Ao chegar em casa, Alison recebe mais uma mensagem, pensa em fugir, mas dessa ve
 
 Através do serviço policial da cidade, as meninas descobrem que na verdade era Mona quem estava por trás das mensagens. No final do dia, Mona vai para um hospital pisquiátrico e Alison diz as seguintes palavras para ela:
 
-— você pode querer me copiar, mas nunca será eu mesma!
+— Você pode querer me copiar, mas nunca será eu mesma!
 
 

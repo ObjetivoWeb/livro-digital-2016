@@ -3,10 +3,10 @@ nome: Eduardo Galdino
 titulo: Liberdade de expressão dos grafiteiros
 ---
 
-Todos nós podemos nos expressar como quisermos, a liberdade 
+Todos nós podemos nos expressar como quisermos. A liberdade 
 de expressão que temos nos permite isso, mas tem algumas 
-pessoas que têm um jeito diferente de expressarem-se, como os 
-grafiteiros, que para expressarem-se pintam paredes de prédios, 
+pessoas que têm um jeito diferente de  se expressarem, como os 
+grafiteiros, que, para se expressarem pintam paredes de prédios, 
 muros, casas, etc.
 
 Há aqueles que digam que as pinturas feitas pelos grafiteiros são 

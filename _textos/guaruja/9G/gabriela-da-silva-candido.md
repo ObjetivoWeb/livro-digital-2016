@@ -1,5 +1,5 @@
 ---
-nome: Gabriela da Silva Candido
+nome: Gabriela da Silva Cândido
 titulo: Contos de fadas não existem
 ---
 

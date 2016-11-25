@@ -5,7 +5,7 @@ titulo: A escola em que estudo
 
 Recebi um texto lindo para reflexão e resolvi traduzir aqui nesta folha que até então estava em branco. Todavia, a imagem que apresento é a de minha vista da escola... o MAR...
 
-Leitor, você sabe o que é estudar numa escola em que na entrada e na saída posso ouvir o barulho do Mar? Muito animador e ao mesmo tempo magnífico.
+Leitor, você sabe o que é estudar numa escola em que na entrada e na saída posso ouvir o barulho do mssar? Muito animador e ao mesmo tempo magnífico.
 
 Não é à toa que o verbo Amar tem um MAR inteiro dentro dele. Pois o Amor é imenso e profundo como o mar.
 

@@ -1,6 +1,6 @@
 ---
 nome: Gabriella Azevedo Izumi
-titulo: Liberdade no Mundo de hoje
+titulo: Liberdade no mundo de hoje
 ---
 
 Hoje em dia existem vários meios para que possamos nos expressar, um desses é a rede social. Um lugar que estamos abertos a receber qualquer critica, como também podemos criticar o que quisermos.

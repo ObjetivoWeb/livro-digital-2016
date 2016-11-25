@@ -17,6 +17,6 @@ Todo cantor canta, e todo compositor compõe para se expressar.
 
 Isso influencia muito nos fãs, porque na maioria das vezes uma pessoa é fã de determinado cantor porque se identifica com as musicas dele.
 
-Muitos anonimos as vezes compõem tambem, anonimamente para se expressar. Muitas vezes a pessoa pode não ter com quem conversar e acha a música como uma forma de expressar o que sente, independente do que sente.
+Muitos anônimos, às vezes, compõem tambem, anonimamente para se expressar. Muitas vezes a pessoa pode não ter com quem conversar e acha a música como uma forma de expressar o que sente, independente do que sente.
 
 

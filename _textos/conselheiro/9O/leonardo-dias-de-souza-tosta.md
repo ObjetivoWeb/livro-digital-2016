@@ -3,7 +3,7 @@ nome: Leonardo Dias de Souza Tosta
 titulo: Viver Melhor A Vida
 ---
 
-Bom, poderia falar de todas as coisas boas da vida, que são poucas, mas nos nunca paramos para pensar nos momentos bons, pois quando acontecem, nós apenas vivemos e sentimos aquela boa sensação.
+Bom, poderia falar de todas as coisas boas da vida, que são poucas, mas nós nunca paramos para pensar nos momentos bons, pois quando acontecem, nós apenas vivemos e sentimos aquela boa sensação.
 
 Devemos saber aproveitar os momentos, os dias bons e ruins, pois quem faz o dia ser bom ou ruim, não é o sol, a chuva, as paisagens e sim, nós mesmos!
 

@@ -5,13 +5,13 @@ titulo: A Importância de ser mãe
 
 Esse texto vai falar um pouco do que eu estou aprendendo com a minha mãe.
 
-Ela nunca vai te deixar, hipóteses algumas. Ela sempre está certa, mesmo você estando errado, ela não te julga.
+Ela nunca irá deixá-lo em hipótese alguma. Ela sempre está certa, mesmo você estando errado, ela não o julga.
 
-Ela é sua melhor amiga. Sua mãe nunca vai te magoar. Quando você sai, ela é a única pessoa que fica preocupada.
+Ela é sua melhor amiga. Sua mãe nunca vai  magoá-lo. Quando você sai, ela é a única pessoa que fica preocupada.
 
 Ela só quer que você seja feliz, sendo perto dela ou longe. Não existe presente algum que compre um abraço ou beijo. Ela é a minha rainha, mesmo não tendo coroa.
 
-Sempre choro por causa de amizade, e ela sempre me fala a mesma coisa, “filha, você não precisa chorar por causa de amizade, você tem a sua família que te ama, muito mais do que qualquer amizade“
+Sempre choro por causa de amizade, e ela sempre me fala a mesma coisa, “filha, você não precisa chorar por causa de amizade, você tem a sua família que asss ama, muito mais do que qualquer amizade“
 
 Sempre posso contar com ela, a qualquer hora, dia e segundo. Ela me ensina todos os dias, sempre fala que a vida é muito longa para ficar chorando ou ficar brava com as pessoas.
 

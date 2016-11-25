@@ -3,7 +3,7 @@ nome: Ana Clara Carvalho de Matos
 titulo: A Coleção
 ---
 
-Na cidade de Nice, na França morava uma menina ruiva chamada Maria Todo dia depois da escola Maria ia para a  praia e pegava conchinhas, ia para casa, comia e colocava as conchas que pegou junto com sua coleção.
+Na cidade de Nice, na França morava uma menina ruiva chamada Maria. Todo dia depois da escola, Maria ia para a  praia e pegava conchinhas, ia para casa, comia e as colocava  juntas, formando uma  coleção.
 
 Certo dia, Maria  acordou e foi fazer sua rotina, vestiu-se e foi para
 a escola. Depois da escola, Maria fez seu caminho para a praia para pegar
