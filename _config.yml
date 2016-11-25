@@ -7,6 +7,8 @@ url: "http://objetivoweb.com.br"
 
 # Build settings
 markdown: kramdown
+keep_files: 
+  - ftpsync.settings
 
 sass:
   style: compressed
